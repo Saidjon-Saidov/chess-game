@@ -64,7 +64,7 @@ jobs:
     
     # 7. Сохраняем HTML отчёт как артефакт
     - name: 📁 Upload coverage HTML report
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: coverage-report-${{ matrix.os }}-py${{ matrix.python-version }}

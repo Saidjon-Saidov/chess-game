@@ -72,7 +72,7 @@ test_chess_engine.py
 MIT License
 ```
 
-4. Сохраните (`Ctrl + S`)
+
 
 ---
 

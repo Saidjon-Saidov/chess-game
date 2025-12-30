@@ -73,4 +73,4 @@ jobs:
     # 8. Проверяем что игра запускается (smoke test)
     - name: 🎮 Smoke test - check game imports
       run: |
-        python -c "from chess_game import ChessGame; print('✅ Game imports successfully')"
+        python -c "from chess_game import ChessGame; print(' Game imports successfully')"

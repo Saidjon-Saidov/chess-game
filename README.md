@@ -1,8 +1,10 @@
 # ♟️ Chess Game v22.1
 
+![Tests](https://github.com/Saidjon-Saidov/chess-game/workflows/Chess%20Engine%20Tests/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11-blue)
-![Tests](https://img.shields.io/badge/tests-29%2F29%20passing-brightgreen)
+![Tests Passing](https://img.shields.io/badge/tests-29%2F29%20passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-96%25-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 Полнофункциональная шахматная игра с ИИ, сетевой игрой и 100% покрытием тестами.
 
@@ -70,11 +72,6 @@ test_chess_engine.py
 ## 📄 Лицензия
 
 MIT License
-```
-
-
-
----
 
 ## ✅ Итоговая структура:
 ```
